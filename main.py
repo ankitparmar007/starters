@@ -1,5 +1,5 @@
 from telethon import TelegramClient, events
-from get_course_time import getTime
+from util import getTime
 api_id = 1220132
 api_hash = 'bce9981f5e11687d0674531e1ca6f9b1'
 
